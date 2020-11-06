@@ -3,7 +3,7 @@ import React from 'react';
 import PromotionCard from 'components/Promotion/card/card';
 
 
-const App = () => {
+const PagesPromotionSearch = () => {
 
   const promotion ={
   "id": 1,
@@ -30,4 +30,7 @@ return (
   );
 }
 
-export default App;
+export default PagesPromotionSearch;
+
+
+
